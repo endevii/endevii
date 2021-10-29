@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @endevii
 - 👀 I’m interested in... music production as well as developing mini apps/programs utilizing Python or other languages/libraries.
 - 🌱 I’m currently learning... Javascript, Swift, HTML/CSS, and Python
-- 💞️ I’m looking to collaborate... on nothing atm, got a full plate 😔 plus I'm pretty lackluster in terms of coding skill.
+- 💞️ I’m looking to collaborate... Soon
 - 📫 How to reach me... through here or follow my insta @endevii or twitter @_endevii_
 
 <!---
