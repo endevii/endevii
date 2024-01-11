@@ -3,9 +3,9 @@ I'm interested in **music production** as well as developing mini apps/programs 
 
 Currently into **Web Development**, mainly since it is easy to make prototypes very quickly. Have used **React**, **Next.js**, **Tailwind**, **Redis**, **Redux**, **Apollo**
 
-Current Classes: **TCP/IP Networking**, **Human-Computer Interaction**, **Theory of Computation**, **Security, Privacy and Society**, **Database Management Systems**
+Current Classes: **Concurrent Programming**, **Database Management Systems II**, **Intro to Cloud Computing**, **Senior Design II**
 
-Next Semester: **Concurrent Programming**, **Database Management Systems II**, **Intro to Cloud Computing**, **Senior Design II**
+Next Semester: **Potential Grad student !?**
 
 ### You can reach me through here or by following my Instagram [@endevii](https://www.instagram.com/endevii) or Twitter [@\_endevii\_](https://twitter.com/_endevii_)!
 
